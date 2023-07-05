@@ -1,0 +1,44 @@
+.fam2 h1{
+	
+	text-align:center;
+}
+
+.fam2{
+	
+	text-align:center;
+}
+
+input{
+	
+	padding:10px 0 10px 150px;
+	margin:0 0 0 0;
+}
+
+.fam3{
+	padding:0 0 0 130px;
+}
+
+input[type=email], [type=tel]{
+	margin:0 0 0 130px;
+}
+
+input.bbbb{
+	margin:0 0 0 100px;
+}
+	
+.due{
+	
+	padding:10px 0 10px 130px;
+	
+}
+
+button{
+	
+	background-color:red;
+	color:white;
+	border:none;
+	padding:8px 20px 8px 20px;
+	text-align:center;	
+	margin-left:500px;
+
+}
